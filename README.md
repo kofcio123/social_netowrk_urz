@@ -4,6 +4,9 @@ Opis aplikacji
 Portal społecznościowy, który będzie łączył miłośników motoryzacji.
 Użytkownik będzie miał możliwość nawiązywania nowych kontaktów z ludźmi o podobnym zainteresowaniu.  Portal umożliwi tworzenie dyskusji oraz dołączenie się do już istniejących. Użytkownik będzie posiadał możliwość spersonalizowania swojego profilu.
 
+Jak identyfikujecie społeczność?
+Społeczność naszego portalu identyfikuje się jako osoby zainteresowane motoryzacją. Każda osoba, która w jakikolwiek sposób wiąże się z motoryzacją będzie miała możliwość korzystania z aplikacji.
+
 Technologie
 - Spring: Boot, Security
 - BootStrap
@@ -30,6 +33,13 @@ Aplikacja będzie umożliwiała logowanie się do portalu poprzez inne portale t
 Bezpieczeństwo użytkowników
 Każdy użytkownik w procesie rejestracji, będzie proszony o podanie silnego, ciężkiego do złamania hasła. Aplikacja będzie miała za zadanie sprawdzić czy wpisane hasło spełnia podane warunki. Odpowiedzialna będzie za to walidacja.
 Zapytania do bazy danych będą wysyłane za pomocą prepared statements, które uchroni  nas przez atakami SQL injection. 
+
+W jaki sposób chcemy przyciągnąć użytkowników do nas? 
+Korzystamy z narzędzi google do opracowania słów kluczowych, aby nasza strona była lepiej pozycjonowana w przeglądarce.
+
+
+
+
 
 
 
