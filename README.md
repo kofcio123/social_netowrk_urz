@@ -11,6 +11,7 @@ Technologie
 - Spring: Boot, Security
 - BootStrap
 - MySQL
+- AngularJS
 
 Do wykonania naszego projektu, skorzystaliśmy z technologii Java z pomocą framework Spring. Wybór padł na Springa, ze względu na znajomość tej technologii. BootStrap – umożliwi nam w łatwy sposób zaprojektowanie interfejsu. Baza danych oparta będzie na MySQL.
 
